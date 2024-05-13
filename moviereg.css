@@ -1,0 +1,26 @@
+#c1 {
+    margin-right: 15px;
+    width: 410px;
+}
+
+#c2 {
+    margin-right: 15px;
+    /*padding-right: 10px;*/
+    width: 410px;
+}
+
+#c3 {
+    width: 410px;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#m1, #m2, #m3 {
+    width: 409px;
+    height: 500px;
+    cursor: pointer;
+}
+
